@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Rivarrl/vp-static/issues"
   },
-  "homepage": "https://github.com/Rivarrl/vp-static#readme"
+  "homepage": "https://github.com/Rivarrl/vp-static#readme",
+  "dependencies": {
+    "vuepress-plugin-comment": "^0.7.3"
+  }
 }

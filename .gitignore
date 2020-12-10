@@ -1,0 +1,6 @@
+node_modules
+.env*
+docs/.vuepress/dist
+*.mp3
+*.lock
+package-lock.json
